@@ -1,1 +1,1 @@
-# FreeCodeCamp-s-projects
+# Projects of FreeCodeCamp Data Analysis with Python
